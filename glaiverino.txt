@@ -7505,15 +7505,6 @@ dimwishlist:item=2535142413&perks=2713678205,1087426260,2379536009,4259401308
 dimwishlist:item=2535142413&perks=2713678205,1087426260,2379536009,1067908860
 
 
-// Edge of Action (god-pve,god-pvp,mnk,controller,pvp,pve)
-//notes: tags:god-pve,god-pvp,mnk,controller,pvp,pve
-dimwishlist:item=2535142413&perks=
-
-
-// Edge of Action ()
-dimwishlist:item=2535142413&perks=
-
-
 // The Enigma (god-pve,god-pvp,mnk,controller,pvp,pve)
 //notes: "I’m going to use my own glaive build bruh. I did it first. I did it literally after the first mission. Figured it out immediately" - Glaiverino, 2022 tags:god-pve,god-pvp,mnk,controller,pvp,pve
 dimwishlist:item=2595497736&perks=2713678205,3721627275,1820235745,1015611457,357495645
