@@ -150,7 +150,7 @@ dimwishlist:item=14194600&perks=594346985,679225683,1067908860
 
 
 // Edge of Concurrence ()
-//notes: "where tf are my glaive kills recorded, charlemagne isn't updating weapons" - Glaiverino, 2022
+//notes: On the hunter invisibility bug: "please just patch it bungo, my build doesn't rely on the glitch. even if they disable suppressing glaive or glaive they cannot stop me. they can't just disable invis and they can't disable glaives and swords along with normal melees. bungie is trapped and they cannot do anything to stop this bug unless they fix it" [after the patch] "man, wtf is this bullshit. fucking bungie. now i have to use dogshit volatile rounds and grenades with funnelweb" - Glaiverino, 2022 
 dimwishlist:item=542203595&perks=5699512,3142289711,844190854,990298390
 dimwishlist:item=542203595&perks=5699512,3142289711,844190854,3465198467
 dimwishlist:item=542203595&perks=5699512,3142289711,844190854,4259401308
@@ -14418,7 +14418,7 @@ dimwishlist:item=2534546147&perks=594346985,679225683,1172098417,1161469972,3363
 
 
 // Edge of Action (god-pve,god-pvp,mnk,controller,pvp,pve)
-//notes: "man / wtf is this bullshit / fucking bungie / now i have to use dogshit volatile rounds and grenades with funnelweb" - Glaiverino, 2022 tags:god-pve,god-pvp,mnk,controller,pvp,pve
+//notes: "where tf are my glaive kills recorded, charlemagne isn't updating weapons" - Glaiverino, 2022 tags:god-pve,god-pvp,mnk,controller,pvp,pve
 dimwishlist:item=2535142413&perks=1263609309,2420895100,2379536009,990298390
 dimwishlist:item=2535142413&perks=1263609309,2420895100,2379536009,3465198467
 dimwishlist:item=2535142413&perks=1263609309,2420895100,2379536009,4259401308
