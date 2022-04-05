@@ -7508,3 +7508,8 @@ dimwishlist:item=2595497736&perks=1820235745,288411554
 dimwishlist:item=2595497736&perks=1820235745,1015611457
 
 
+
+
+// Vex Mythoclast ()
+//notes: "So Im in a HOT battle to get Vex mythoclast and I didn't get the gun this week. If I delete a character, can I get the loot again or not? Does anyone ACTUALLY know the right answer?" - u/Scorpin_09, 2021
+dimwishlist:item=4289226715&perks=839105230,185041502,806917387,990298390
